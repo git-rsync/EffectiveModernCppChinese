@@ -7,17 +7,17 @@
 
 # 目录
 1. 类型推导
-	1. [Item 1:理解模板类型推导](https://github.com/racaljk/EffectiveModernCppChinese/blob/master/1.DeducingTypes/item1.md)_revised_
-	2. [Item 2:理解auto类型推导](https://github.com/racaljk/EffectiveModernCppChinese/blob/master/1.DeducingTypes/item2.md)
-	3. [Item 3:理解decltype](https://github.com/racaljk/EffectiveModernCppChinese/blob/master/1.DeducingTypes/item3.md)
-	3. [Item 4:学会查看类型推导结果](https://github.com/racaljk/EffectiveModernCppChinese/blob/master/1.DeducingTypes/item4.md)
+	1. [Item 1:理解模板类型推导](./1.DeducingTypes/item1.md)_revised_
+	2. [Item 2:理解auto类型推导](./1.DeducingTypes/item2.md)
+	3. [Item 3:理解decltype](./1.DeducingTypes/item3.md)
+	4. [Item 4:学会查看类型推导结果](./1.DeducingTypes/item4.md)
 2. auto
-	1. [Item 5:优先考虑auto而非显式类型声明](https://github.com/racaljk/EffectiveModernCppChinese/blob/master/2.auto/item5.md)
-	2. [Item 6:auto推导若非己愿，使用显式类型初始化惯用法](https://github.com/racaljk/EffectiveModernCppChinese/blob/master/2.auto/item6.md)
+	1. [Item 5:优先考虑auto而非显式类型声明](./2.auto/item5.md)
+	2. [Item 6:auto推导若非己愿，使用显式类型初始化惯用法](./2.auto/item6.md)
 3. 移步现代C++
-	1. [Item 7:区别使用()和{}创建对象](https://github.com/racaljk/EffectiveModernCppChinese/blob/master/3.MovingToModernCpp/item7.md)
-	2. [Item 8:优先考虑nullptr而非0和NULL](https://github.com/racaljk/EffectiveModernCppChinese/blob/master/3.MovingToModernCpp/item8.md)
-	3. [Item 9:优先考虑别名声明而非typedefs](https://github.com/racaljk/EffectiveModernCppChinese/blob/master/3.MovingToModernCpp/item9.md)
+	1. [Item 7:区别使用()和{}创建对象](./3.MovingToModernCpp/item7.md)
+	2. [Item 8:优先考虑nullptr而非0和NULL](./3.MovingToModernCpp/item8.md)
+	3. [Item 9:优先考虑别名声明而非typedefs](./3.MovingToModernCpp/item9.md)
 	4. Item 10:优先考虑域内enum而非域外enum
 	5. Item 11:优先考虑使用delete而非使用未定义的私有声明
 	6. Item 12:使用override声明重载函数
